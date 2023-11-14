@@ -144,6 +144,8 @@
     <ClCompile Include="CesarEncryption.cpp" />
     <ClCompile Include="CESI CPIA2 POO - Prosit 2.cpp" />
     <ClCompile Include="Decryption.cpp" />
+    <ClCompile Include="DoubleDecryption.cpp" />
+    <ClCompile Include="DoubleEncryption.cpp" />
     <ClCompile Include="EncryptionDecryption.cpp" />
     <ClCompile Include="Logical.cpp" />
     <ClCompile Include="logicalDecryption.cpp" />
@@ -154,6 +156,8 @@
     <ClInclude Include="CesarDecryption.h" />
     <ClInclude Include="CesarEncryption.h" />
     <ClInclude Include="Decryption.h" />
+    <ClInclude Include="DoubleDecryption.h" />
+    <ClInclude Include="DoubleEncryption.h" />
     <ClInclude Include="Encryption.h" />
     <ClInclude Include="EncryptionDecryption.h" />
     <ClInclude Include="crypt.h" />

@@ -4,3 +4,6 @@
 
 #include "CesarEncryption.h"
 #include "CesarDecryption.h"
+
+#include "DoubleEncryption.h"
+#include "DoubleDecryption.h"
