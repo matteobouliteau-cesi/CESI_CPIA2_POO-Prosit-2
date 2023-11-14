@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cesar.cpp" />
+    <ClCompile Include="CesarDecryption.cpp" />
+    <ClCompile Include="CesarEncryption.cpp" />
     <ClCompile Include="CESI CPIA2 POO - Prosit 2.cpp" />
     <ClCompile Include="Decryption.cpp" />
     <ClCompile Include="EncryptionDecryption.cpp" />
@@ -147,6 +150,9 @@
     <ClCompile Include="LogicalEncryption.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cesar.h" />
+    <ClInclude Include="CesarDecryption.h" />
+    <ClInclude Include="CesarEncryption.h" />
     <ClInclude Include="Decryption.h" />
     <ClInclude Include="Encryption.h" />
     <ClInclude Include="EncryptionDecryption.h" />
