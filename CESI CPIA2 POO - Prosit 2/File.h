@@ -7,13 +7,13 @@ using namespace std;
 class File
 {
 private :
-	fstream* file;
+	fstream file;
 public :
+	File(void);
 	File(string name);
 	~File();
-	void setFile(fstream* file);
-	fstream* getFile(void);
 	string read(void);
+	void open(string name);
 	void write(string content);
 };
 
