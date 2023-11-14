@@ -140,10 +140,24 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CESI CPIA2 POO - Prosit 2.cpp" />
-    <ClCompile Include="File.cpp" />
+    <ClCompile Include="Decryption.cpp" />
+    <ClCompile Include="EncryptionDecryption.cpp" />
+    <ClCompile Include="Logical.cpp" />
+    <ClCompile Include="logicalDecryption.cpp" />
+    <ClCompile Include="LogicalEncryption.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="File.h" />
+    <ClInclude Include="Decryption.h" />
+    <ClInclude Include="Encryption.h" />
+    <ClInclude Include="EncryptionDecryption.h" />
+    <ClInclude Include="crypt.h" />
+    <ClInclude Include="Logical.h" />
+    <ClInclude Include="logicalDecryption.h" />
+    <ClInclude Include="LogicalEncryption.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CESI CPIA2 POO - Prosit 2.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
